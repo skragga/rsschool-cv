@@ -1,0 +1,20 @@
+
+.photo {
+    height: 240px;
+    width: 240px;
+}
+
+.body {
+    
+    text-align: center;
+    background-color:plum ;
+  
+}
+.footer {
+    text-align: left;
+    border: 1px solid rebeccapurple;
+}
+.icon {
+    height: 60px;
+    width: 120px;
+}
