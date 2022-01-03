@@ -1,1 +1,1 @@
-# rsschool-cv
+https://skragga.github.io/rsschool-cv/cv
